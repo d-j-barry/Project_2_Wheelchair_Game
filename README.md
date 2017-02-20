@@ -5,6 +5,9 @@ Team #1.
 Wheelchair Game.
 
 Producer: Gavin
+
 Designer: Evan
+
 Artist: Matt
+
 Programmers: Danielle & Nick
